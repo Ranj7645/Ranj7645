@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranj7645&label=Profile%20views&color=0e75b6&style=flat" alt="ranj7645" /> </p>
 
-- 🔭 I’m currently working on **naive bayes(spam classifier)**
+- 🔭 I’m currently working on **Servlet and jsp**
 
 - 📫 How to reach me **ranjeetkumar70337@gmail.com**
 
